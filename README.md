@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Catalogo Instrumetos Musicais" title="#CatalogoInstrumentosMusicais" src="./src/assets/images/logo.svg" width="20%" />
+    <img alt="Catalogo Instrumetos Musicais" title="#CatalogoInstrumentosMusicais" src="./images/logo.svg" width="20%" />
 </h1>
 
 <h2 align="center" > 
