@@ -3,12 +3,10 @@ import './App.css';
 function App() {
   return (
     <div>
-      <p>
-          Olá Jean Duarte
-        </p>
-        <p>
+      <h1>Olá Jean Duarte</h1>
+        <h2>
           Vamos adiantar esse UI/UX ???
-        </p>
+        </h2>
     </div>
   );
 }
