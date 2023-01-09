@@ -1,16 +1,16 @@
-import './App.css';
-import './assets/styles/custom.scss';
-import Navbar from './components/Navbar';
+import "./App.css";
+import "./assets/styles/custom.scss";
+import MenuBar from "./components/MenuBar";
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
-      <h1>Olá Jean Duarte</h1>
-        <h2>
-          Vamos adiantar esse UI/UX ???
-        </h2>
-    </div>
+      <MenuBar />
+      <Home />
+    </>
   );
 }
 
